@@ -36,12 +36,10 @@
 				<th scope"row">1:</th>
 					<td> Mt.Vernon Christian Academy</td>
 				</tr>
-
 				<tr>
 				<th scope"row">2:</th>
 					<td> Eagle's Landing Christian Academy</td>
 				</tr>
-
 				<tr>
 				<th scope"row">3:</th>
 					<td> Eagles Landing High School</td>
