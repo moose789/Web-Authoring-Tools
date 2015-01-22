@@ -31,10 +31,6 @@
 					<td>Fort Worth, Texas</td>
 				</tr>
 			</table>
-
-			
-
-
 			<table>
 				<tr>
 				<th scope"row">1:</th>
