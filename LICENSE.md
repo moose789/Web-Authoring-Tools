@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 	<h1> Hanah Billups </h1>
 	<h2> Sophomore</h2>
